@@ -1,0 +1,5 @@
+{
+  "name": "SecureText - End-to-End Encrypted Messenger",
+  "description": "A final-year project showcasing advanced cryptography (AES-256, RSA-2048, SHA-256) and secure network communication principles in a real-time React application.",
+  "requestFramePermissions": []
+}
